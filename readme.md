@@ -3,6 +3,8 @@
 [![codecov](https://codecov.io/gh/sukovanej/container/branch/master/graph/badge.svg)](https://codecov.io/gh/sukovanej/container)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+## **NOTE: this is just a temporary maintenance fork, do not use!**
+
 *(definition from dictionary.com)*
 
 > a technician who introduces prepared ~semen~ **dependencies** into the ~genital tract 
